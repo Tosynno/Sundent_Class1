@@ -1,0 +1,6 @@
+@Sundent_Class1_HostAddress = http://localhost:5008
+
+GET {{Sundent_Class1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
